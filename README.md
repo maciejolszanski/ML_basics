@@ -1,1 +1,1 @@
-# My learning of the Machine Learning
+# My learning Machine Learning
