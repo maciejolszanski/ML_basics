@@ -1,3 +1,6 @@
 env/
 
 __pycache__/
+
+datasets/spam/easy_ham/
+datasets/spam/spam/
