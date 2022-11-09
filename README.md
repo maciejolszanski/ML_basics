@@ -6,7 +6,7 @@ Notebooks based on a book:
 * [01 House Prices](https://github.com/maciejolszanski/ML_basics/blob/master/01_end_to_end_machine_learning_project.ipynb)
 * [03 MNIST Classification](https://github.com/maciejolszanski/ML_basics/blob/master/03_MNIST_classification.ipynb)
 * [05 Spam](https://github.com/maciejolszanski/ML_basics/blob/master/05_spam.ipynb)
-* [06 Exercises](https://github.com/maciejolszanski/ML_basics/blob/master/06_Trainig_Models_exercises.ipynb)
+* [06 Training Models](https://github.com/maciejolszanski/ML_basics/blob/master/06_Trainig_Models_exercises.ipynb)
 
 Notebooks with my own code:
 * [02 Car Prices](https://github.com/maciejolszanski/ML_basics/blob/master/02_car_prices_prediction.ipynb)
