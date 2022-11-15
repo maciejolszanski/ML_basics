@@ -4,3 +4,7 @@ __pycache__/
 
 datasets/spam/easy_ham/
 datasets/spam/spam/
+
+# vsc workspace files
+*.code-workspace
+.vscode/
