@@ -9,9 +9,11 @@ Notebooks based on a book:
 * [06 Training Models](https://github.com/maciejolszanski/ML_basics/blob/master/06_Trainig_Models_exercises.ipynb)
 * [08 SVM](https://github.com/maciejolszanski/ML_basics/blob/master/08_SVM.ipynb)
 * [09 BGD Softmax with early stopping](https://github.com/maciejolszanski/ML_basics/blob/master/09_BGD_softmax.ipynb)
+* [11 Decision Trees](https://github.com/maciejolszanski/ML_basics/blob/master/11_Decision_Trees.ipynb)
 
 Notebooks with my own code:
 * [02 Car Prices](https://github.com/maciejolszanski/ML_basics/blob/master/02_car_prices_prediction.ipynb)
 * [04 Titanic](https://github.com/maciejolszanski/ML_basics/blob/master/04_Titanic.ipynb)
 * [07 Spaceship Titanic](https://github.com/maciejolszanski/ML_basics/blob/master/07_Spaceship_titanic.ipynb)
 * [10 SVM exercises](https://github.com/maciejolszanski/ML_basics/blob/master/10_SVM_exercises.ipynb)
+* [12 Decision Trees Exercises](https://github.com/maciejolszanski/ML_basics/blob/master/12_Decision_Trees_exercises.ipynb) 
