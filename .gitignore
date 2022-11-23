@@ -8,3 +8,6 @@ datasets/spam/spam/
 # vsc workspace files
 *.code-workspace
 .vscode/
+
+# ML models - too big for github
+models/
